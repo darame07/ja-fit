@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "JA'Fit_FIN_avec chat_corrections code",
+  "description": "",
+  "prompt": ""
+}
